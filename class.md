@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Ali Hussain  
+- Certification: Introduction to Version Control 
 
 ## Instructions
 Please replace the placeholders with your details:
